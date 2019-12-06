@@ -9,3 +9,7 @@ vsc-extension-quickstart.md
 **/*.map
 **/*.ts
 *.vsix
+node_modules
+*.js.map
+token
+webpack.config.js
