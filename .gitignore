@@ -3,3 +3,5 @@ dist
 token
 vsc-extension-quickstart.md
 *.vsix
+.vscode-test
+/out
