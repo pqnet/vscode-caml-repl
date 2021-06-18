@@ -15,6 +15,9 @@
 	],
 	"activationEvents": [
 		"onLanguage:camllight",
+		"onLanguage:ocaml",
+		"onLanguage:ocaml.interface",
+		"onLanguage:fsharp",
 		"onCommand:extension.camlRepl.evaluate"
 	],
 	"main": "./dist/extension.js",
